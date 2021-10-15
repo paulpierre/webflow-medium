@@ -59,4 +59,4 @@ If you want additional features, find bugs, just submit an issue
 
 Interested in blockchain and dApp development. Were hiring and looking for pirates 🏴‍☠️, [https://www.conductiveresearch.com](https://www.conductiveresearch.com)
 
-Give this a ⭐ above ☝️ and me a follow on [Twitter]](https://www.twitter.com/paulpierre) if you liked this 👍
+Give this a ⭐ above ☝️ and me a follow on [Twitter](https://www.twitter.com/paulpierre) if you liked this 👍
