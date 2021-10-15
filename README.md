@@ -12,7 +12,8 @@
 
 webflow-medium is a script you can embed onto your hosted website like Webflow, Shopify, Square Space that allows you to directly inject your article meta data directly onto the page.
 
-Created by [@paulpierre](https://www.twitter.com/paulpierre) and blockchain developer at [https://www.conductiveresearch.com](https://www.conductiveresearch.com) (join us we're hiring 🧑‍🔬🏴‍☠️👩‍🔬)
+by [@paulpierre](https://www.twitter.com/paulpierre) and blockchain developer @ [https://www.conductiveresearch.com](https://www.conductiveresearch.com)
+join us we're hiring 🧑‍🔬🏴‍☠️👩‍🔬
 
 ## Features
 * Get around Medium.com from accessing your own content! Embed your articles
