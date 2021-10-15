@@ -4,7 +4,7 @@
 ░▀░▀░ ▀▀▀ ▀▀▀░ ▀░░ ▀▀▀ ▀▀▀▀ ░▀░▀░ ░░ ▀░░░▀ ▀▀▀ ▀▀▀░ ▀▀▀ ░▀▀▀ ▀░░░▀ █ █▄█ ▀▀▀
 ```
 
-### webflow-medium.js - Dynamically embed medium previews in Webflow 👍
+### webflow-medium.js - Dynamically embed medium articles in Webflow 👍
 
 ---
 
