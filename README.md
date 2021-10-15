@@ -17,12 +17,12 @@ by [@paulpierre](https://www.twitter.com/paulpierre), a blockchain developer @ [
 join us we're hiring 🧑‍🔬🏴‍☠️👩‍🔬
 
 ## Features
-* Get around Medium.com from accessing your own content! Embed your articles
-* Preserves the style of your theme, just swaps content
-* Fill in CSS query selectors, and the rest is done
-* Calculates amount of minutes it takes to read!
-* Set the maximum length of the title and description
-* Set a default image if no thumbnail is found
+* 🏴‍☠️ Get around Medium.com from accessing your own content! Embed your articles
+* 🔒 Preserves the style of your theme, just swaps content
+* ⚙️ Fill in CSS query selectors, and the rest is done
+* 👁️ Calculates amount of minutes it takes to read!
+* ⚠️ Set the maximum length of the title and description
+* 🖼️ Set a default image if no thumbnail is found
 
 
 ## Metadata
@@ -44,6 +44,7 @@ Currently Medium does not really provide get APIs for your content or embed your
 
 * Every medium has an RSS feed accessible via `https://medium.com/feed/@yourusername`
 * I simply pass this to a free RSS to JSON service
+* Loop and inject through the selectors .. very basic 💩 
 
 
 ## TODO:
