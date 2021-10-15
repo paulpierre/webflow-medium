@@ -31,7 +31,8 @@ webflow-medium is a script you can embed onto your hosted website like Webflow, 
 
 1. Open webflow-medium.js and edit the section beneath `// Configuration values`
 2. Set your Medium.com users name under `USERNAME`
-3. Configure your CSS selectors, embed script in Webflow and rock and roll!
+3. Makes sure you setup a dummy layout on Webflow for the medium articles
+4. Configure your CSS selectors, embed script in Webflow and rock and roll!
 
 ## How it works
 

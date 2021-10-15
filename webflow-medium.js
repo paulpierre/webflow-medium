@@ -22,9 +22,9 @@ async function getMedium() {
 
   // Configuration values
   const USERNAME = 'YOUR MEDIUM USERNAME WITHOUT THE @';
-  const ARTICLE_COUNT = 3;
-  const TITLE_MAX_LENGTH = 75;
-  const DESCRIPTION_MAX_LENGTH = 200;
+  const ARTICLE_COUNT = 3; //total # of medium articles being displayed
+  const TITLE_MAX_LENGTH = 75; //cut off for the header title
+  const DESCRIPTION_MAX_LENGTH = 200; //max number of characters for the preview description
   const DEFAULT_THUMBNAIL = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHqItFQn9b2fMb3seOWq4vxS7A-RWc0dH3Dg&usqp=CAU';
   
   // Query selector strings
